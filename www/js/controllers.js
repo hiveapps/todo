@@ -1,6 +1,6 @@
 var todo = angular.module('todo.controllers', [])
 
-todo..controller('TodoCtrl', function($scope, $ionicModal) {
+todo.controller('TodoCtrl', function($scope, $ionicModal) {
   // No need for testing data anymore
   $scope.tasks = [];
 
