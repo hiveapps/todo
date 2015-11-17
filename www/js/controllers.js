@@ -30,4 +30,4 @@ todo.controller('TodoCtrl', function($scope, $ionicModal) {
   $scope.closeNewTask = function() {
     $scope.taskModal.hide();
   };
-});
+})
