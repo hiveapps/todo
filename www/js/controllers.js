@@ -82,5 +82,5 @@ todo.controller('TodoCtrl', function($scope, $timeout, $ionicModal, Projects, $i
       }
     }
   });
-
+  
 });
